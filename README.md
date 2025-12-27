@@ -142,3 +142,17 @@ It looks like:
 - Mods  
 
 Understanding this is how we stop it.
+
+
+---
+
+## POC
+## Screenshots
+
+![Snake Game](Screenshot%202025-12-27%20105806.png)
+
+![Snake Game](Screenshot%202025-12-27%20110040.png)
+
+![Snake Game](Screenshot%202025-12-27%20105935.png)
+
+![Snake Game](Screenshot%202025-12-27%20110208.png)
